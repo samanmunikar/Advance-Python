@@ -1,0 +1,2 @@
+GMAIL_PWD = 'PythonProjects'
+
